@@ -1,0 +1,19 @@
+{
+  "usuarios": [
+    {
+      "login": "asds",
+      "nombre": "asd",
+      "id": 1
+    },
+    {
+      "login": "",
+      "nombre": "asd",
+      "id": 2
+    },
+    {
+      "login": "Maksym",
+      "nombre": "Trucksss",
+      "id": 3
+    }
+  ]
+}

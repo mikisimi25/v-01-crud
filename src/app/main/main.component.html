@@ -1,0 +1,6 @@
+<ul>
+    <li *ngFor="let usuario of usuarios">
+        {{usuario.login}} - {{usuario.nombre}} - 
+        <a [routerLink]="['edit/',usuario.id]">Editar</a> 
+    </li>
+</ul>
